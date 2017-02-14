@@ -1,0 +1,11 @@
+D:\vstudio 2013\Projects\sauvegarde\Sauvegarde\Sauvegarde\bin\Debug\Sauvegarde.exe.config
+D:\vstudio 2013\Projects\sauvegarde\Sauvegarde\Sauvegarde\obj\Debug\Sauvegarde.csprojResolveAssemblyReference.cache
+D:\vstudio 2013\Projects\sauvegarde\Sauvegarde\Sauvegarde\obj\Debug\Sauvegarde.Form1.resources
+D:\vstudio 2013\Projects\sauvegarde\Sauvegarde\Sauvegarde\obj\Debug\Sauvegarde.Properties.Resources.resources
+D:\vstudio 2013\Projects\sauvegarde\Sauvegarde\Sauvegarde\obj\Debug\Sauvegarde.csproj.GenerateResource.Cache
+D:\vstudio 2013\Projects\sauvegarde\Sauvegarde\Sauvegarde\bin\Debug\Sauvegarde.exe
+D:\vstudio 2013\Projects\sauvegarde\Sauvegarde\Sauvegarde\bin\Debug\Sauvegarde.pdb
+D:\vstudio 2013\Projects\sauvegarde\Sauvegarde\Sauvegarde\bin\Debug\ionic.zip.dll
+D:\vstudio 2013\Projects\sauvegarde\Sauvegarde\Sauvegarde\bin\Debug\log4net.dll
+D:\vstudio 2013\Projects\sauvegarde\Sauvegarde\Sauvegarde\obj\Debug\Sauvegarde.exe
+D:\vstudio 2013\Projects\sauvegarde\Sauvegarde\Sauvegarde\obj\Debug\Sauvegarde.pdb
